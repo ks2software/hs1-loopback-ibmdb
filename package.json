@@ -22,7 +22,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "debug": "^3.1.0",
-    "ibm_db": "^2.3.0",
+    "ibm_db": "^3.0.0",
     "loopback-connector": "^4.0.0",
     "strong-globalize": "^4.0.0"
   },
